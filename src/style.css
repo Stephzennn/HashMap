@@ -1,0 +1,10 @@
+body {
+  /*
+  background-image: url("./Image/forest.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  */
+  display: grid;
+  grid-template-columns: 2fr 8fr;
+  grid-template-rows: 10vh auto;
+}
